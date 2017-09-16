@@ -1,4 +1,4 @@
-# HBDPJOM<!DOCTYPE html>
+
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -11,9 +11,7 @@ body, html {
     font-family: "Inconsolata", sans-serif;
 }
 .bgimg {
-    background-position: center;
-    background-size: cover;
-    background-image: url("p.jpg");
+
     min-height: 100%;
 }
 .menu {
@@ -31,12 +29,17 @@ body, html {
     
   </div>
   <div class="w3-display-middle w3-center">
-    <span class="w3-text-Black" style="font-size:90px">HAPPY<br>BIRTHDAY</span>
+    
   </div>
   <div class="w3-display-bottomright w3-center w3-padding-large">
    
   </div>
 </header>
+
+<div class="w3-container" id="menu">
+  <div class="w3-content" style="max-width:1000px">
+
+<img src="J.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="1000">
 
 <!-- Add a background color and large text to the whole page -->
 <div class="w3-sand  w3-large">
