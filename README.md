@@ -21,7 +21,7 @@ body, html {
 <body>
 
 
-</div>
+
 
 <!-- Header with image -->
 <header class="bgimg w3-display-container w3-grayscale-min" id="home">
@@ -118,6 +118,3 @@ and achieve all your goal.</span></h5>
 
   
     
-
-</body>
-</html>
