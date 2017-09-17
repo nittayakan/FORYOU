@@ -70,11 +70,6 @@ and achieve all your goal.</span></h5>
     <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">I LOVE YOU TO THE MOON AND BACK .</span></h5>
 <img src="31.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1500" height="1500">
 <img src="33.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1500" height="1500">
-<img src="18.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="1000">
-<img src="5.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="1000">
-
-
-
 
 <div class="w3-row w3-container" style="margin:50px 0">
 <div class="w3-half w3-container">
@@ -93,6 +88,14 @@ and achieve all your goal.</span></h5>
   </div>
 </div>
 </div>
+
+<img src="18.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="1000">
+<img src="5.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="1000">
+
+
+
+
+
 
 <div class="w3-row w3-container" style="margin:50px 0">
 <div class="w3-half w3-container">
