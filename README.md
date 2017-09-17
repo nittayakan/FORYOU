@@ -53,7 +53,7 @@ body, html {
 
 
 
-<h5 class="w3-center w3-padding-64"><span class=" w3-wide">Happy birthday for you and God blessing you and your family hopeful and fun all the year. I wish you always be healthy happy in your life
+<h5 class="w3-center w3-padding-30"><span class=" w3-wide">Happy birthday for you and God blessing you and your family hopeful and fun all the year. I wish you always be healthy happy in your life
 and achieve all your goal.</span></h5>
 
 
