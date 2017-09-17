@@ -48,12 +48,12 @@ body, html {
 <!-- About Container -->
 <div class="w3-container" id="about">
   <div class="w3-content" style="max-width:1000px">
-    <h5 class="w3-center w3-padding-30"><span class="w3-tag w3-wide">18 September 2017</span></h5>
+    <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">18 September 2017</span></h5>
 
 
 
 
-<h5 class="w3-center w3-padding-30"><span class=" w3-wide">Happy birthday for you and God blessing you and your family hopeful and fun all the year. I wish you always be healthy happy in your life
+<h5 class="w3-center w3-padding-64"><span class=" w3-wide">Happy birthday for you and God blessing you and your family hopeful and fun all the year. I wish you always be healthy happy in your life
 and achieve all your goal.</span></h5>
 
 
