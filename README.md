@@ -39,7 +39,7 @@ body, html {
 <div class="w3-container" id="menu">
   <div class="w3-content" style="max-width:1000px">
 
-<img src="J.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="1000">
+<img src="J.jpg" alt="Ocean II" class="w3-image w3-margin-top w3-grayscale-min" width="1000" height="1000">
 
 <!-- Add a background color and large text to the whole page -->
 <div class="w3-sand  w3-large">
@@ -48,7 +48,7 @@ body, html {
 <!-- About Container -->
 <div class="w3-container" id="about">
   <div class="w3-content" style="max-width:1000px">
-    <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">18 September 2017</span></h5>
+    <h5 class="w3-center w3-padding-30"><span class="w3-tag w3-wide">18 September 2017</span></h5>
 
 
 
