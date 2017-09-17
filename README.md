@@ -122,8 +122,6 @@ and achieve all your goal.</span></h5>
 <img src="25.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1500" height="1500">
 
 <h6 class="w3-center w3-padding-30"><span class="w3-tag w3-wide">BY NOMPANGBERRY</span></h6>
+   
 
-    
-</body>
-</html>  
     
